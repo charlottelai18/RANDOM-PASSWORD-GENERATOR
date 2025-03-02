@@ -1,5 +1,5 @@
 # RANDOM-PASSWORD-GENERATOR
-Random Password Generator 🔒
+Random Password Generator 🔒 <br>
 A simple web-based password generator that creates strong, random passwords with a single click. The application features a modern UI with a dark theme and a copy-to-clipboard function for ease of use.
 
 🚀 Features
